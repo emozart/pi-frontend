@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pi-frontend/static/css/main.795991f2.chunk.css",
+    "main.js": "/pi-frontend/static/js/main.369d71c7.chunk.js",
+    "main.js.map": "/pi-frontend/static/js/main.369d71c7.chunk.js.map",
+    "runtime~main.js": "/pi-frontend/static/js/runtime~main.8e30383a.js",
+    "runtime~main.js.map": "/pi-frontend/static/js/runtime~main.8e30383a.js.map",
+    "static/js/2.5a861b61.chunk.js": "/pi-frontend/static/js/2.5a861b61.chunk.js",
+    "static/js/2.5a861b61.chunk.js.map": "/pi-frontend/static/js/2.5a861b61.chunk.js.map",
+    "index.html": "/pi-frontend/index.html",
+    "precache-manifest.1578f77a38ef7d780a09db19aa33d299.js": "/pi-frontend/precache-manifest.1578f77a38ef7d780a09db19aa33d299.js",
+    "service-worker.js": "/pi-frontend/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/pi-frontend/static/css/main.795991f2.chunk.css.map",
+    "static/media/Card_01.jpg": "/pi-frontend/static/media/Card_01.c281f024.jpg",
+    "static/media/Card_02.jpg": "/pi-frontend/static/media/Card_02.bb49e40a.jpg",
+    "static/media/Card_03.jpg": "/pi-frontend/static/media/Card_03.5930c257.jpg",
+    "static/media/Carousel02.jpg": "/pi-frontend/static/media/Carousel02.68f8369c.jpg",
+    "static/media/Carousel03.png": "/pi-frontend/static/media/Carousel03.ef51ba9e.png"
+  }
+}
