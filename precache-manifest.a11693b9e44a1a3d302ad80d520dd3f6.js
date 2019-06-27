@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bd08f1fc1d748addd2fe2220a887ef1",
+    "revision": "f1542b9737501870d973039e23e457ad",
     "url": "/pi-frontend/index.html"
   },
   {
-    "revision": "5d70b7d0aaac6ad63fd8",
+    "revision": "b74a3c0df4f3ef20e512",
     "url": "/pi-frontend/static/css/main.795991f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pi-frontend/static/js/2.5a861b61.chunk.js"
   },
   {
-    "revision": "5d70b7d0aaac6ad63fd8",
-    "url": "/pi-frontend/static/js/main.9779df1e.chunk.js"
+    "revision": "b74a3c0df4f3ef20e512",
+    "url": "/pi-frontend/static/js/main.ec09fb8b.chunk.js"
   },
   {
     "revision": "ca7d9e91fbfa340459fd",
